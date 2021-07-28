@@ -61,7 +61,7 @@ namespace Assignment1
     //            ElectricityBill bill = new ElectricityBill(1, Units, totalamt);
     //            bill.BillDetails(totalamt);
 
-
+    //life
     //        }
     //    }
     //}
